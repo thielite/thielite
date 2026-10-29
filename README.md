@@ -36,12 +36,11 @@ That said, I really like the idea of open source and enjoy using projects like *
 
 ### languages
 
-`Rust` · `Python` · `Go` · `SQL` · `Luau` · `HTML` · `CSS` · `The Full Mern Stack`
+`Rust` · `Python` · `The Full Mern Stack` · `Luau`
 
 ### interested in
 
-`C` · `Kubernetes` · `gRPC` · `ML` · `systems programming`
-
+`C` · `Kubernetes` · `gRPC` · `ML` · `systems programming` · `Go` · `SQL` 
 ### tools
 
 `Docker` · `VS Code` · `Vim` · `Figma` · `Photoshop`
@@ -59,7 +58,6 @@ I like working on:
 * 🤖 **AI / ML experiments**
 * 🐳 self-hosted things
 * 🏠 eventually, a proper **homelab + NAS**
-* 💡 ideas that probably start with *"wait, could I build this?"*
 
 Currently experimenting with: **vibe coding**.
 
@@ -86,23 +84,6 @@ I like **textbooks, comics, movies, and going down extremely specific internet r
 
 I also have a soft spot for **Ralph Lauren**.
 
----
-
-## 🌎 languages
-
-🇬🇧 English
-
-🇩🇪 German — conversational
-
-🇰🇷 Korean — learning
-
-🇨🇳 Mandarin — want to learn
-
-🇻🇳 Vietnamese — want to learn
-
-🇹🇭 Thai — want to learn
-
-Languages are one of those things I keep coming back to.
 
 ---
 
@@ -112,21 +93,6 @@ Usually somewhere between:
 
 **deep house** · **lofi house** · **eurobeats**
 
----
-
-## 🗺️ where i'm going
-
-Currently in **Manchester**.
-
-I'd love to spend some time in:
-
-🌉 **San Francisco**
-🌍 **somewhere as a digital nomad**
-
-Long-term I'm mostly interested in having the freedom to **build, travel, learn, and work on interesting things**.
-
----
-
 ## 🐧 currently on the wishlist
 
 * [ ] Learn C properly
@@ -134,30 +100,11 @@ Long-term I'm mostly interested in having the freedom to **build, travel, learn,
 * [ ] Build a NAS
 * [ ] Build a homelab
 * [ ] Get deeper into Kubernetes
-* [ ] Make more apps
-* [ ] Ship more projects
-* [ ] Learn Korean
-* [ ] Explore Mandarin, Vietnamese & Thai
 * [ ] Become dangerously good at Rust
 * [ ] Figure out what I'm actually doing
 
----
-
-## 💬 find me
-
-**X:** [@FredrickRCP](https://x.com/FredrickRCP)
-
-If you're building something interesting, experimenting with AI, making games, self-hosting everything you own, or just generally curious about technology —
-
-**say hi.** 🫶
-
----
 
 <div align="center">
-
-### ✦ currently building something ✦
-
-`code` · `create` · `learn` · `repeat`
 
 </div>
 
